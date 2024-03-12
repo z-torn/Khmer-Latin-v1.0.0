@@ -1,0 +1,6 @@
+  To Setup thi program.
+1.Click Khmer Latin v1.0.0
+2.Debug
+3.Khmer Latin v1.0.0(Setup)
+
+   If your Computer need Netframwork 4.0 , Please you install it first.

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Khmer Latin v1.0.0", "Khmer Latin v1.0.0\Khmer Latin v1.0.0.vdproj", "{37783CC2-81BE-4555-B4E2-DF8C8D563465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37783CC2-81BE-4555-B4E2-DF8C8D563465}.Debug|Default.ActiveCfg = Debug
+		{37783CC2-81BE-4555-B4E2-DF8C8D563465}.Debug|Default.Build.0 = Debug
+		{37783CC2-81BE-4555-B4E2-DF8C8D563465}.Release|Default.ActiveCfg = Release
+		{37783CC2-81BE-4555-B4E2-DF8C8D563465}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
