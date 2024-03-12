@@ -1,5 +1,5 @@
 # KhmerLatin-
-Application to make it easy to convert from Khmer-based names in to Latin by Department Geography 2009.
+Application to make it easy to convert from Khmer-based names in to Latin by Department of Geography in 2009.
 Feel free to download and use.
 
 ប្រព័ន្ធបំប្លែងពីខ្មែរទៅជាឡាតាំងរបស់នាយកដ្ឋានភូមិសាស្ត្រជាតិ ឆ្នាំ២០០៩។ 
